@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/test-dashboard/static/css/main.2c087c82.css",
+    "main.js": "/test-dashboard/static/js/main.53c689a3.js",
+    "static/media/promote.svg": "/test-dashboard/static/media/promote.6173903c20a60f923179e722dc0ff91e.svg",
+    "static/media/dashboard.svg": "/test-dashboard/static/media/dashboard.9c7da86128d7208ced4cabbee82c3566.svg",
+    "static/media/income.svg": "/test-dashboard/static/media/income.18c43397e34f1fe16af5b4ed2e9e2cc1.svg",
+    "static/media/product.svg": "/test-dashboard/static/media/product.28af61e375474813a6adc4fb27e44391.svg",
+    "static/media/help.svg": "/test-dashboard/static/media/help.d9aa53d3772328403382b97577e39a82.svg",
+    "static/media/logo.svg": "/test-dashboard/static/media/logo.61b7152c9d66a28b51ebd88124d28f35.svg",
+    "static/media/customers.svg": "/test-dashboard/static/media/customers.016e6494af16d3d34d14cbe202d09edf.svg",
+    "index.html": "/test-dashboard/index.html",
+    "static/media/arrow.svg": "/test-dashboard/static/media/arrow.c5e73fd03b5afb67a42bc8648bdd9233.svg",
+    "main.2c087c82.css.map": "/test-dashboard/static/css/main.2c087c82.css.map",
+    "main.53c689a3.js.map": "/test-dashboard/static/js/main.53c689a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c087c82.css",
+    "static/js/main.53c689a3.js"
+  ]
+}

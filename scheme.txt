@@ -1,9 +1,0 @@
-Routes
-    '/'  <greatings/>
-      '/dashboard'
-      '/product'
-      '/customers'
-        '/'
-      '/income'
-      '/promote'
-      '/help'
